@@ -1,0 +1,21 @@
+{
+  "name": "taskmanegercli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Muhammad Hammad",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cli-table3": "^0.6.5",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "inquire": "^0.4.8",
+    "inquirer": "^12.1.0",
+    "mongoose": "^8.8.2"
+  }
+}
